@@ -101,3 +101,17 @@ html, body {
         padding: 0;
     }
 }
+
+@media screen and (max-width:1200px){
+    #set{
+        width: 100%;
+    }
+    
+}
+
+@media screen and (max-width:1600px){
+    .title{
+        display: none;
+    }
+    
+}
